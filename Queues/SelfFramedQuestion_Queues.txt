@@ -1,0 +1,1 @@
+An airport authority needs to implement a queue system for its passengers  who wants their bags checked in. The passengers stand one behind the other as they enter the queue, and the passenger who is first in line is allowed to check in his back first and leave the queue after which the second person checks in and so on. Write a java program to implement the above use case.
