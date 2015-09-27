@@ -1,0 +1,2 @@
+Given an array of elements containing both negative and positive integers, write a program which calculates the number of negative sub arrays in the array.
+Sub arrays are contiguous chunks of the main array. For example, if the array is {1,2,3,5} then some of the sub arrays are {1}, {1,2,3}, {2,3,5}, {1,2,3,5} etc. But {1,2,5} is not a sub array as it is not contiguous.
