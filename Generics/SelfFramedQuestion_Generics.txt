@@ -1,0 +1,7 @@
+Assume you want to implement a google map prototype. Your prototype takes as input the address in any of the following formats:
+-> longitude, longitude
+-> street name, street name intersection
+-> state name, pin code
+The server has to receive the data in its actual datatype. Eg longitude, longitude=double, double.
+street name, street name intersection = string, string. State name, pin code = string, integer.
+However, you need to write a single class which accepts these inputs. Write a java program using generics to implement the above use case.
