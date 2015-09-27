@@ -1,0 +1,1 @@
+Implement a simple mobile phone application installation setup using interfaces. The user first has to create an account in google play store to download any apps. He then installs WhatsApp and google maps. Identify common functionalities which could be encapsulated within an interface.  The implementing class should implement multiple interfaces.
